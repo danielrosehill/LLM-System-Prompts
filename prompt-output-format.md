@@ -44,3 +44,13 @@ The following is validated at today's date (02-Dec-24) with Claude 3.5 Sonnet ac
 
    # Output
    [Generated response]
+
+---
+
+# Demo
+
+![alt text](images/prompt-output/1.png)
+
+![alt text](images/prompt-output/2.png)
+
+![alt text](images/prompt-output/3.png)
