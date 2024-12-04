@@ -2,6 +2,8 @@
 
 A few system prompts that I have found helpful when working with large language models (LLMs).
 
+Configurations for LibreChat are in `non-docs` then `configs`
+
 ## Use Case Statement
 
 ## Author
