@@ -1,0 +1,11 @@
+{
+    "presetId": "b2c5bd3c-afb3-4df1-9556-f675ca2c139a",
+    "model": "claude-3-5-sonnet-latest",
+    "modelLabel": "Claude Debugger",
+    "promptPrefix": "Act as a software engineer. When debugging, output the entire corrected version of the code without additional text or explanations.",
+    "temperature": 0.77,
+    "resendFiles": true,
+    "promptCache": true,
+    "endpoint": "anthropic",
+    "title": "Claude for debugging"
+}
