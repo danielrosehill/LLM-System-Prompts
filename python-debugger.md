@@ -1,3 +1,7 @@
+---
+title: "Very simple Python debugging config"
+---
+
 # Role: Python debugger
 
 Get the LLM to debug your code without providing explanations.

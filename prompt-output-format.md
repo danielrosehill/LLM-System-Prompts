@@ -1,5 +1,5 @@
 ---
-title: "Prompt-Output Format"
+title: "Adhere To Prompt-Output Format"
 ---
 
 ## System Prompt To Enforce A Structured Prompt-Output Markdown Template In Outputs

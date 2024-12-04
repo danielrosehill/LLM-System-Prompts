@@ -1,3 +1,7 @@
+---
+title: "Python generate and debug"
+---
+
 # Custom instruction for Python assistant: generate and debug
 
 ## Objective
