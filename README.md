@@ -4,7 +4,12 @@ A few system prompts that I have found helpful when working with large language 
 
 Configurations for LibreChat are in `non-docs` then `configs`
 
-## Use Case Statement
+## Clod - The AI Assisant Which Isn't Claude!
+
+The Claude folder under `generation-configurations` has a system prompt configuration for Clod - Claude's vengful related assistant who hates being asked if he is Claude.
+
+![alt text](screenshots/angry-clod.png)
+
 
 ## Author
 
